@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Blendercraft/static/css/main.1206b436.css",
+    "main.js": "/Blendercraft/static/js/main.ff760127.js",
+    "static/js/787.d1d4a2c2.chunk.js": "/Blendercraft/static/js/787.d1d4a2c2.chunk.js",
+    "index.html": "/Blendercraft/index.html",
+    "main.1206b436.css.map": "/Blendercraft/static/css/main.1206b436.css.map",
+    "main.ff760127.js.map": "/Blendercraft/static/js/main.ff760127.js.map",
+    "787.d1d4a2c2.chunk.js.map": "/Blendercraft/static/js/787.d1d4a2c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1206b436.css",
+    "static/js/main.ff760127.js"
+  ]
+}
