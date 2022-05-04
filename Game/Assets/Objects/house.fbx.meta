@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 409234d44737c764686a7029f1bfe532
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-bedrock
+    second: {fileID: 2100000, guid: 74432dfe97b0ce94899764449a794211, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-cake_bottom
+    second: {fileID: 2100000, guid: f9a50e330826ea84b8cdf443527db1ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-cake_side
+    second: {fileID: 2100000, guid: 2a7969477d3fdc74185fc9ee6c01c26e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-cake_top
+    second: {fileID: 2100000, guid: dba1a6379dd56bd45b2975fa87af927c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-chain
+    second: {fileID: 2100000, guid: 8433e35e2e9d64649a784bd02d568d54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-cobblestone
+    second: {fileID: 2100000, guid: cce34f274cc18f34d8978aadb88f53ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-dark_oak_planks
+    second: {fileID: 2100000, guid: 653134081b5e7854592056214c0b93b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-dirt
+    second: {fileID: 2100000, guid: 0305655adffbdf6419c835420592e3ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-dirt_path_side
+    second: {fileID: 2100000, guid: a243741e5ea1ad94e9c6b791d6e24125, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-dirt_path_top
+    second: {fileID: 2100000, guid: da0fb386f82c3be41b40523717467d7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-farmland
+    second: {fileID: 2100000, guid: 83e533670171c4e44a905ff756e60642, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-farmland_moist
+    second: {fileID: 2100000, guid: 219406a6f90af724da08d9edf125775d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-glass
+    second: {fileID: 2100000, guid: 914cbc66a4c97ad4ab799b63a126504d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-grass_block_side
+    second: {fileID: 2100000, guid: 2e3e36df656f22946a786b49443df325, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-grass_block_top
+    second: {fileID: 2100000, guid: 69b3e6f686eeb304ba26bc58a108ec4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-oak_planks
+    second: {fileID: 2100000, guid: 3e3f3515e2d21cf4ea523dc6c23e268d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-redstone_lamp_on
+    second: {fileID: 2100000, guid: 787aaa1e768000544be7f7f7ab060a79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-redstone_torch
+    second: {fileID: 2100000, guid: 4c2c69fcf9548aa45b4402c80d557ba1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-rose_bush_bottom
+    second: {fileID: 2100000, guid: 3fee3f678ffae7e43972bdeaa0e7b05e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-rose_bush_top
+    second: {fileID: 2100000, guid: 64aca5b8557191f48b21698e300d82c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-spruce_door_bottom
+    second: {fileID: 2100000, guid: b4ba22ba4de01fe41b986e573a7fd3ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-spruce_door_top
+    second: {fileID: 2100000, guid: 27d29b1b3e31f254ba6783d5ce424eea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-tall_grass_bottom
+    second: {fileID: 2100000, guid: 33cbfe90172209b48ae8154450bd836a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-tall_grass_top
+    second: {fileID: 2100000, guid: 71ecce7ea21985a49827afee283525b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-torch
+    second: {fileID: 2100000, guid: f70a655dd8775314b9d81c3c675c9479, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-water_still
+    second: {fileID: 2100000, guid: cde3aecd8bc8ded4581abd397cf600c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_entity-bed-red
+    second: {fileID: 2100000, guid: c69cf7f115d8c2942935b19de01c8377, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 1
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

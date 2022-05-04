@@ -16,10 +16,23 @@ public class PlayerController : MonoBehaviour
     private float movementForward;
     private float rotationMovement;
 
+    [SerializeField]
+    private GameObject[] cameras;
+
     private void Update()
     {
-        movementForward = Input.GetKey(KeyCode.W) ? 1 : 0;
+        movementForward = Input.GetAxisRaw("Vertical") > 0 ? 1 : 0;
         rotationMovement = Input.GetAxisRaw("Horizontal");
+        if (Input.GetKey(KeyCode.P))
+        {
+            cameras[0].SetActive(false);
+            cameras[1].SetActive(true);
+        }
+        else 
+        {
+            cameras[0].SetActive(true);
+            cameras[1].SetActive(false);
+        }
     }
 
     private void FixedUpdate() 
