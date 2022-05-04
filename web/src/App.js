@@ -1,23 +1,28 @@
-import logo from './logo.svg';
 import './App.css';
+import Unity, { UnityContext } from "react-unity-webgl";
+import { useEffect } from 'react';
+
+const unityContext = new UnityContext({
+  loaderUrl: './Game/webgl.loader.js',
+  dataUrl: "./Game/webgl.data",
+  frameworkUrl: "./Game/webgl.framework.js",
+  codeUrl: "./Game/webgl.wasm",
+});
 
 function App() {
+
+  useEffect(function () {
+    unityContext.on("canvas", function (canvas) {
+      canvas.width = 720;
+      canvas.height = 600;
+    });
+  }, []);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Unity 
+        unityContext={unityContext}
+      />
     </div>
   );
 }
